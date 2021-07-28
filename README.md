@@ -1,0 +1,2 @@
+# LetterCode
+Foreign Currency Calculator
