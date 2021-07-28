@@ -1,2 +1,2 @@
 # LetterCode
-Foreign Currency Calculator
+This program will code and decode messages. 
